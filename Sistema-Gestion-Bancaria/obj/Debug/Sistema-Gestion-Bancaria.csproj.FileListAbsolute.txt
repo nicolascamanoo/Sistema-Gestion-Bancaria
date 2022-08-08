@@ -1,0 +1,6 @@
+C:\Users\nicol\OneDrive\Documentos\SharpDevelop Projects\TpFinal\TpFinal\obj\Debug\TpFinal.csprojResolveAssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\SharpDevelop Projects\TpFinal\TpFinal\bin\Debug\TpFinal.exe.config
+C:\Users\nicol\OneDrive\Documentos\SharpDevelop Projects\TpFinal\TpFinal\bin\Debug\TpFinal.exe
+C:\Users\nicol\OneDrive\Documentos\SharpDevelop Projects\TpFinal\TpFinal\bin\Debug\TpFinal.pdb
+C:\Users\nicol\OneDrive\Documentos\SharpDevelop Projects\TpFinal\TpFinal\obj\Debug\TpFinal.exe
+C:\Users\nicol\OneDrive\Documentos\SharpDevelop Projects\TpFinal\TpFinal\obj\Debug\TpFinal.pdb
